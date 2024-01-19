@@ -1,1 +1,1 @@
-Created project from local repo
+Created project from local repo.
